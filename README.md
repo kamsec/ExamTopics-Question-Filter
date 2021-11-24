@@ -24,4 +24,4 @@ git clone git@github.com:kamsec/ExamTopics-Question-Filter.git
 ### Notes:
 - Firefox removes temporary extensions on restart, so it's easier to use it with Chrome
 - You can filter more strings by adding them to `unwantedStrings` array in `script.js`
-- If you have some paid-plan which allows you to view more than 5 questions on page, you can increase default `5` value in `for` loop
+- If you have some paid plan on ExamTopics which allows you to view more than 5 questions on page, you can increase default `5` value in `for` loop in `script.js`
