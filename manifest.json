@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+  "name": "ExamTopics Question Filter",
+  "description": "This extension removes unwanted text from examtopics.com making questions easier to read",
+  "version": "1.0",
+  "content_scripts": [
+    {
+    "matches": ["https://www.examtopics.com/*"],
+    "js": ["script.js"],
+    "run_at": "document_end"
+    }
+  ],  
+  "permissions": ["activeTab"]
+ }
