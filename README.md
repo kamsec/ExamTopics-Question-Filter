@@ -1,6 +1,6 @@
 ## ExamTopics Question Filter
 
-Simple extension to remove annoying text surrounding the questions on <a href="examtopics.com">examtopics.com</a>. Made for AZ-900, but it will work for other ones if there are identical strings displayed. You can always filter more strings by modyfing `script.js`.
+Simple extension to remove annoying text surrounding the questions on <a href="www.examtopics.com">www.examtopics.com</a>. Made for AZ-900, but it will work for other ones if there are identical strings displayed. You can always filter more strings by modyfing `script.js`.
 
 ### Download 
 ```
