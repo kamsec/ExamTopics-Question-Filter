@@ -13,7 +13,7 @@ window.onload=function(){
     //console.log("Executing script.js (ExamTopics Question Filter)")
     if (document.body.innerHTML.indexOf("Reveal Solution") != -1) {
         //console.log("Clearing page content (ExamTopics Question Filter)")
-        for (let i = 0; i < 5; i++) {
+        for (let i = 0; i < 10; i++) {
             unwantedStrings.map((str) => {document.body.innerHTML = document.body.innerHTML.replace(str, "")})
         };
     };
